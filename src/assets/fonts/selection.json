@@ -1,0 +1,87 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M788.809 466.038l-93.154 101.455c-12.182 13.22-20.445 38.699-18.369 56.53l15.718 136.848c2.075 17.87-9.646 26.363-25.979 18.869l-125.281-57.26c-16.333-7.455-43.080-7.455-59.451 0l-125.281 57.26c-16.333 7.494-28.015-0.999-25.979-18.869l15.756-136.848c2.037-17.831-6.226-43.31-18.369-56.53l-93.192-101.455c-12.144-13.22-7.686-26.978 9.953-30.552l135.004-27.324c17.601-3.574 39.237-19.292 48.076-34.933l67.713-119.939c8.8-15.679 23.288-15.679 32.127 0l67.675 119.939c8.839 15.641 30.475 31.359 48.114 34.933l135.004 27.324c17.601 3.574 22.059 17.332 9.915 30.552v0zM512.038 0c-282.766 0-512 229.234-512 512s229.234 512 512 512c282.766 0 511.962-229.234 511.962-512s-229.195-512-511.962-512v0z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "menu-self-selection"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 2,
+        "id": 0,
+        "name": "menu-self-selection",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "fonts",
+    "url": "http://www.tigerbrokers.com",
+    "designer": "",
+    "designerURL": ""
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "fonts",
+        "majorVersion": 1,
+        "minorVersion": 0,
+        "fontURL": "http://www.tigerbrokers.com",
+        "description": "Tiger App",
+        "copyright": "Tiger",
+        "designer": "",
+        "designerURL": ""
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false,
+      "noie8": true,
+      "ie7": false,
+      "showSelector": false,
+      "showMetrics": false,
+      "showMetadata": false,
+      "showVersion": true,
+      "cssVars": true,
+      "cssVarsFormat": "less"
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16,
+      "addBgColor": false,
+      "overrideSize": false
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16,
+    "showGrid": false
+  }
+}
